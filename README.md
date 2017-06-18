@@ -1,2 +1,2 @@
 # Breaker
-A simple 2D breaker made in python with pygame to test my laylib framwork for game prototyping 
+A simple 2D break breaker made in python and pygame to test laylib framwork for fast game prototyping.
