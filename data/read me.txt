@@ -1,2 +1,0 @@
-Some util functions for rapid prototyping 2d game with pygame.
-Author : A.Amine
