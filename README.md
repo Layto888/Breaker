@@ -2,5 +2,4 @@
 A simple 2D brick breaker made in python and pygame to test laylib framwork for fast game prototyping.
 
 # Preview
-
-<a href="https://www.hostingpics.net/viewer.php?id=643608Webpnetgifmaker.gif"><img src="https://img15.hostingpics.net/thumbs/mini_643608Webpnetgifmaker.gif" alt="Heberger image" /></a>
+![webp net-gifmaker]https://user-images.githubusercontent.com/28489945/27357182-19f0d38e-5609-11e7-8ce5-667688458eb7.gif
